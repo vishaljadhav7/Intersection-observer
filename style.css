@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    width: 100vw;
+    padding-top: 10px;
+}
+
+h2{
+    text-align: center;
+    margin: 20px 0;
+}
+
+
+.content{
+    border: 1px solid black;
+    padding: 5px;
+    height: 300px;
+    width: 500px;
+    background-color: gold;
+    overflow-y: scroll;
+    margin: 0 auto;
+}
+
+.sub-content{
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+.box{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    margin: 5px;
+}
